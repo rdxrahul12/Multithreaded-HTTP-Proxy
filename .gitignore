@@ -1,0 +1,4 @@
+*.exe
+.vscode
+.clang-format
+build
